@@ -88,7 +88,7 @@
 ## 免费可用web
 
 - [Chatbot with 恰恰AI ](https://chat.qiaqiaai.top/)
-- 
+- [星云AI](https://ai.gcchen.cn/)
 
 ## 工具
 
@@ -101,17 +101,6 @@
 - [tw93/Pake: 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App](https://github.com/tw93/Pake)
 - [jiji262/awesome-AIGC-tools: AIGC information including ChatGPT , GPT-4 and others](https://github.com/jiji262/awesome-AIGC-tools)
 - [aigctookit | 带你玩赚AIGC (aigctoolkit.com)](https://www.aigctoolkit.com/)
-- Slidesgo:
-  [Free Google Slides themes and Powerpoint templates...](https://slidesgo.com/ "Free Google Slides themes and Powerpoint templates...") (免费)
-  Slidesgo是一个免费的在线PPT模板库，提供多种主题和风格的PPT模板，可以根据您的需求自由选择。您可以在Slidesgo上找到现成的幻灯片，将其下载并编辑以符合您的需求。
-- Canva: [Just a moment...](https://www.canva.com/ "Just a moment...") (免费/付费)
-  Canva是一个功能强大的设计工具，可以用于制作各种类型的设计素材，包括PPT幻灯片。Canva提供免费和付费版本。免费版用户可以使用大部分功能，但某些高级功能需要订阅付费版。
-- Ludus: [https://ludus.one/](https://ludus.one/ "https://ludus.one/") (免费/付费)
-  Ludus是一个基于Web的PPT编辑器，可以通过文本编辑器将您的文本转换为漂亮的幻灯片。Ludus提供免费和付费版本，免费版用户可以创建最多5个PPT幻灯片。
-- GAN-Generated Photo PPT: [Easy sharing of digital assets with Pics.io DAM pl...](https://gan-generated-photos-ppt.pics.io/ "Easy sharing of digital assets with Pics.io DAM pl...") (免费)
-  GAN-Generated Photo PPT是一个免费的在线工具，可以使用GAN生成高质量的PPT幻灯片。您可以在网站上上传您的图片和文本，然后生成具有高质量图片的幻灯片。
-- Swordy Slide: [https://swordyslide.com/](https://swordyslide.com/ "https://swordyslide.com/") (免费)
-  Swordy Slide是一个基于GAN的PPT生成工具，可以创建具有高质量图片和设计的幻灯片。该工具是免费的，但生成的PPT幻灯片上会有水印。如果您需要去除水印，您需要付费购买许可证。
 - [hankcs/HanLP: 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理 (github.com)](https://github.com/hankcs/HanLP)
 - [阿里云推出运行 Stable Diffusion Web UI 的机器学习平台 PAI](https://free.aliyun.com/) | [资料](https://help.aliyun.com/document_detail/615220.html)
 - [ChatGPT &amp; AI | 普通人必备手册 ](https://l5fobi2tsi.feishu.cn/docx/JoRUdTQ9DoGIHlxPljLc5RRjnnf)
