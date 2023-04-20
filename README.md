@@ -10,6 +10,7 @@
 - [如何利用chatgpt精确生成midjourney提示符？](https://ou2bqyydg1.feishu.cn/docx/XtRsdVNncoo7zCxzrbCcfXsjnyc)
 - [【懒人教学】3分钟在线部署Stable Diffusion，免费生成你的ai女神 ](https://relie.vip/3-Stable-Diffusion-ai-540c937ac76744a68cf98330cddf48f3)
 - [AI壁纸号，一周涨粉数千，变现四位数——享受ai带来的高质量原创红利](https://lm6l8sf5y8.feishu.cn/docx/CejzdKrHWocBHdxte0kcw3z8nDB)
+- [‌‍‬⁤⁡⁢‌⁡⁡⁣⁣⁤﻿‌‍⁣﻿⁤⁤⁡‍‬⁡⁤‌‌‍⁣﻿‍⁢‬‌﻿⁤﻿⁢⁢⁤⁢AIGC在网易落地项目中的运用](https://y930mfky1j.feishu.cn/docx/G1VKd6cKvoKYNCxBiTDcvDrgnkh)
 
 ### 项目实操
 
@@ -20,11 +21,14 @@
 - [如何找到1000个小思路？](https://juejinniu.feishu.cn/docx/CTKrdoRzMoZxhWxQH9GcSRnMn8e)
 - [我用我的10万条微信聊天记录和 280 篇博客文章，做了我自己的数字克隆AI](https://mp.weixin.qq.com/s/08ksIMZRVAwL1CQpO2sC7A)
 - [10 天时间，成为视频号 ChatGPT 类头部账号，我做了什么？](https://t1s1gqtac2.feishu.cn/docx/PEaud24YioXVx3xe09rcXJVMnjb)
+- [‬⁢‌⁢⁣‬‍‌‬⁡‌⁣﻿⁣‌‌⁣‍⁣⁤⁤‬⁣‬⁢⁢⁡‍‬⁤﻿⁤⁡⁤‬‍⁢﻿‌‌‍如何用 chatgpt 做书单号视频？](https://lravvitir1.feishu.cn/wiki/GArdwblEwiwSkBkshwYch66AnAc)
+- [GPT使用案例——OCR+GPT 格式化文本](https://mp.weixin.qq.com/s?__biz=MzIxODMxMjk2NQ==&mid=2247483983&idx=1&sn=59c8fbdd9116ef3db6c39502ad53746a&chksm=97ed3a25a09ab33360102c609ab82b53391c9eac591e2a77ac3cd251a2fdf3b4ea1b68000470&token=1305368493&lang=zh_CN#rd)
 
 ### AI编程
 
 - [AI 辅助编程工具，会编程和不会编程的人都需要！附Cursor保姆级使用教程](https://mp.weixin.qq.com/s/RFm_rvO6yPYdll7t6ll87w)
 - [硬件工程师如何用ChatGPT全流程开发一个软件 ](https://vba052ui4s.feishu.cn/docx/H5zCdT9g2o3tAwxG2SWcbpx0nLg)
+- [我问了鹅厂程序员：你们工作中怎么用ChatGPT？如何高效Prompt？](https://mp.weixin.qq.com/s/L-P-QTReyijbU33ARo-BbA)
 
 ## 教程
 
@@ -50,6 +54,7 @@
 - [Significant-Gravitas/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.](https://github.com/Significant-Gravitas/Auto-GPT)
 - [PowerPoint Presentation](http://lipiji.com/slides/ChatGPT_ppf.pdf?continueFlag=30c502ed91ba8459be48b69c2178767d)
 - [AutoGPT太火了，无需人类插手自主完成任务，GitHub2.7万星 ](https://mp.weixin.qq.com/s/bV1tPc7hNn2z06YOpzyanw)
+- [jiji262/awesome-AIGC-tools: AIGC information including ChatGPT , GPT-4 and others. ](https://github.com/jiji262/awesome-AIGC-tools#%E4%BB%80%E4%B9%88%E6%98%AF-chatgpt-)
 
 ### Midjourney
 
@@ -72,6 +77,7 @@
 ### 申请
 
 - [使用远程桌面管理美国电商店铺、申请美国信用卡及其他美国业务，做一个合格的云居民](https://www.vpsdawanjia.com/6049.html)
+- [‌⁢‌﻿‍⁢⁡‍⁡⁣‌⁡‌‬⁤⁣⁢‍⁢⁤‍⁤﻿⁣‍‬‬⁢⁤⁣⁡‬﻿⁣⁡⁢⁣‍﻿保姆级教程-ChatGPT4注册升级指南（升级版）](https://gqxocrrqst.feishu.cn/docx/FWbRdm5lnoPRcCxkeRscj5Wpn8c)（1UUT）
 
 ### 模型
 
@@ -93,8 +99,10 @@
 ## 工具
 
 - [AI工具集导航 | 500+ AI工具导航大全，国内外AI工具集合网站](https://ai-bot.cn/)
+- [aigctookit | 带你玩赚AIGC (aigctoolkit.com)](https://www.aigctoolkit.com/)
 - [ChatGPT Apps - Ranking | OSS Insight](https://ossinsight.io/collections/chat-gpt-apps/)
 - [ChatGPT 能做的49件事](https://platform.openai.com/examples) | [资料](images/ChatGPT能做的49件事.png)
+- [AI Playground by Vercel Labs](https://play.vercel.ai/)
 - [Chanzhaoyu/chatgpt-web: 用 Express 和 Vue3 搭建的 ChatGPT 演示网页](https://github.com/Chanzhaoyu/chatgpt-web)
 - [Yidadaa/ChatGPT-Next-Web: One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 ](https://github.com/Yidadaa/ChatGPT-Next-Web)
 - [更方便地管理AWS GPU竞价实例](https://github.com/cocomany/GPUSpot)
